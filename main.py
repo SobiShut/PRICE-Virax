@@ -13,8 +13,8 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 # ===============================
 # Settings
 # ===============================
-BOT_TOKEN = os.environ.get("BOT_TOKEN")      # Telegram bot token
-CHANNEL_ID = os.environ.get("CHANNEL_ID")    # @channel_username or chat_id
+BOT_TOKEN = os.environ.get("7836209169:AAG6XlOv_t8CjwfEvUq_IS7E-igTKiQjxg8")      # Telegram bot token
+CHANNEL_ID = os.environ.get("@VIRAXcpl")    # @channel_username or chat_id
 UPDATE_INTERVAL = 60  # seconds (every minute)
 
 state = {}  # store message_id
